@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/layout_slide_format">
+
+    <ImageView
+        android:id="@+id/img_slide_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp" />
+
+    <TextView
+        android:id="@+id/txt_slide_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/txt_slide_description"
+        android:layout_below="@id/img_slide_main"
+        android:textStyle="bold"
+        android:layout_margin="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorWhite"
+        android:text="Heading"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:id="@+id/txt_slide_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:textColor="@color/colorWhite"
+        android:layout_centerHorizontal="true"
+        android:padding="35dp"
+        android:layout_marginBottom="120dp"
+        android:text="TextView" />
+
+
+
+</RelativeLayout>

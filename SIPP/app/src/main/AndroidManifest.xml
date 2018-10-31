@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.sipp">
+
+    <uses-feature android:name="android.hardware.camera"
+        android:required="true" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/sipp_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/sipp_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Walkthrough"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/WalkThrough">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SignUpSignIn"
+            android:label="@string/app_name">
+        </activity>
+        <activity android:name=".MainActivity"
+            android:label="SIPP"></activity>
+        <activity android:name=".Status"
+            android:label="SIPP"
+            android:parentActivityName=".MainActivity">
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" /></activity>
+
+    </application>
+
+</manifest>

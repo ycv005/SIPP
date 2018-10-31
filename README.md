@@ -10,3 +10,5 @@ Source of Inspiration-
 You might see the people competing with each other and saying "My pic is better than you" for winning the Title of -Best Pic or Best DP or whatever. This happens anytime and anywhere.
 
 Installation-https://drive.google.com/open?id=1dRv6zEuRn8BN9vPk5R8_rUROPjPY_mkY
+
+Bug- When you upload your photo using Camera Button, it gets Updated suddenly on the server but to get your Image on Poll you need to do this- Press home button, close app, then Open again(Easiest Way).

@@ -1,4 +1,4 @@
-# SIPP- Android_App
+# SIPP- An Android_App
 Idea- Selfie Image Polling Platform(SIPP)
 
 What's that? Let's Explore it.

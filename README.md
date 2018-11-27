@@ -17,15 +17,15 @@ Tools/Technology Used In this Project:
 - SwipeCards (https://github.com/Diolor/Swipecards)
 
 Implementation Guide
-1 - Project
-1.1 - Open the Project in your android studio;
-1.2 - !!!!IMPORTANT!!!! Change the Package Name. You can check how to do that here (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
+- Project
+ - Open the Project in your android studio;
+ - !!!!IMPORTANT!!!! Change the Package Name. You can check how to do that here (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
 
-2 - Firebase Panel
-2.1 - Create Firebase Project (https://console.firebase.google.com/)
-2.2 - import the file google-service.json into your project as the instructions say
-2.3 - Go to Firebase -> Registration and activate Login/Registrtion with email
-2.4 - Go to Firebase -> storage and activate it;
+- Firebase Panel
+ - Create Firebase Project (https://console.firebase.google.com/)
+ - import the file google-service.json into your project as the instructions say
+ - Go to Firebase -> Registration and activate Login/Registrtion with email
+ - Go to Firebase -> storage and activate it;
 
 NOTE: If you're going to download the full project please use your firebase API.
 

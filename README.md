@@ -18,14 +18,14 @@ Tools/Technology Used In this Project:
 
 Implementation Guide
 - Project
- - Open the Project in your android studio;
- - !!!!IMPORTANT!!!! Change the Package Name. You can check how to do that here (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
+  - Open the Project in your android studio;
+  - !!!!IMPORTANT!!!! Change the Package Name. You can check how to do that here (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
 
 - Firebase Panel
- - Create Firebase Project (https://console.firebase.google.com/)
- - import the file google-service.json into your project as the instructions say
- - Go to Firebase -> Registration and activate Login/Registrtion with email
- - Go to Firebase -> storage and activate it;
+  - Create Firebase Project (https://console.firebase.google.com/)
+  - import the file google-service.json into your project as the instructions say
+  - Go to Firebase -> Registration and activate Login/Registrtion with email
+  - Go to Firebase -> storage and activate it;
 
 NOTE: If you're going to download the full project please use your firebase API.
 

@@ -12,9 +12,9 @@ You might see the people competing with each other and saying "My pic is better 
 Install APK-https://drive.google.com/open?id=1dRv6zEuRn8BN9vPk5R8_rUROPjPY_mkY
 
 Tools/Technology Used In this Project:
--Android Studio 
--Firebase: *Realtime database *Authentication *Realtime Storage
--SwipeCards (https://github.com/Diolor/Swipecards)
+- Android Studio 
+- Firebase: *Realtime database *Authentication *Realtime Storage
+- SwipeCards (https://github.com/Diolor/Swipecards)
 
 Implementation Guide
 1 - Project

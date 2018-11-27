@@ -9,11 +9,11 @@ As the name suggests, it will be a platform that ranks people's selfie based on 
 Source of Inspiration-
 You might see the people competing with each other and saying "My pic is better than you" for winning the Title of -Best Pic or Best DP or whatever. This happens anytime and anywhere.
 
-Installation-https://drive.google.com/open?id=1dRv6zEuRn8BN9vPk5R8_rUROPjPY_mkY
+Install APK-https://drive.google.com/open?id=1dRv6zEuRn8BN9vPk5R8_rUROPjPY_mkY
 
 Improvements-
 - When you upload your photo using Camera Button, it gets Updated suddenly on the server but to get your Image on Poll you need to do this- Press home button, close app, then Open again(Easiest Way).
-- One Person, One Vote. Right Now, one can more than once when where he/she opens the app.
+- One Person, One Vote. Right Now, one can vote more than once whenever he/she opens the app different time.
 - Timer of the polling to make it more interesting.
 - Region wise polling.
 - More Features.

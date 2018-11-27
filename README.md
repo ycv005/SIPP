@@ -11,6 +11,24 @@ You might see the people competing with each other and saying "My pic is better 
 
 Install APK-https://drive.google.com/open?id=1dRv6zEuRn8BN9vPk5R8_rUROPjPY_mkY
 
+Tools/Technology Used In this Project:
+-Android Studio 
+-Firebase: *Realtime database *Authentication *Realtime Storage
+-SwipeCards (https://github.com/Diolor/Swipecards)
+
+Implementation Guide
+1 - Project
+1.1 - Open the Project in your android studio;
+1.2 - !!!!IMPORTANT!!!! Change the Package Name. You can check how to do that here (https://stackoverflow.com/questions/16804093/android-studio-rename-package)
+
+2 - Firebase Panel
+2.1 - Create Firebase Project (https://console.firebase.google.com/)
+2.2 - import the file google-service.json into your project as the instructions say
+2.3 - Go to Firebase -> Registration and activate Login/Registrtion with email
+2.4 - Go to Firebase -> storage and activate it;
+
+NOTE: If you're going to download the full project please use your firebase API.
+
 Improvements-
 - When you upload your photo using Camera Button, it gets Updated suddenly on the server but to get your Image on Poll you need to do this- Press home button, close app, then Open again(Easiest Way).
 - One Person, One Vote. Right Now, one can vote more than once whenever he/she opens the app different time.

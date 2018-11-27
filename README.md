@@ -11,4 +11,9 @@ You might see the people competing with each other and saying "My pic is better 
 
 Installation-https://drive.google.com/open?id=1dRv6zEuRn8BN9vPk5R8_rUROPjPY_mkY
 
-Bug- When you upload your photo using Camera Button, it gets Updated suddenly on the server but to get your Image on Poll you need to do this- Press home button, close app, then Open again(Easiest Way).
+Improvements-
+- When you upload your photo using Camera Button, it gets Updated suddenly on the server but to get your Image on Poll you need to do this- Press home button, close app, then Open again(Easiest Way).
+- One Person, One Vote. Right Now, one can more than once when where he/she opens the app.
+- Timer of the polling to make it more interesting.
+- Region wise polling.
+- More Features.
